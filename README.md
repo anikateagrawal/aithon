@@ -7,7 +7,7 @@ Doctors all over the world will be able to help their patients contact them by u
 
 
 Technologies Used:
-React, Express, Sklearn, Numpy, Pandas , Pythton, Flask, MongoDB, Javascript.
+Machine Learning Algorithm (Decision Tree) , React, Express, Sklearn, Numpy, Pandas , Pythton, Flask, MongoDB, Javascript.
 
 Steps to run this project:
 1. Clone this github repository.
