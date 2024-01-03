@@ -16,6 +16,7 @@ Steps to run this project:
 4. Open ML Model Backend folder in terminal and type "pip install -r requirements.txt" after that "python app.py".
 5. Open Appointment Booking folder in terminal and type "node index.js".
 
+Project Prototype Bried Video Link: https://drive.google.com/file/d/1JkVdNNSa0HEeoc5fPTebZq7sEnvzLGx1/view?usp=sharing
 
 Live Link : (Note Please open this url and let it load for 5minutes)
 https://anikateagrawal.github.io/health_check/
