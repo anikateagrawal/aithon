@@ -23,10 +23,10 @@ const bookingRoutes=require('./routes/bookingRoutes');
 const profileRoutes=require('./routes/profileRoutes');
 const MongoDBStore = require('express-mongodb-session')(session);
 
-const dburl=process.env.dbURL||'mongodb://127.0.0.1:27017/health-care';
-const dburl2='mongodb://127.0.0.1:27017/health-care';
-const url="https://anikateagrawal.github.io/health_check/";
-const url2="";
+const dburl2=process.env.dbURL||'mongodb://127.0.0.1:27017/health-care';
+const dburl='mongodb://127.0.0.1:27017/health-care';
+const url2="https://anikateagrawal.github.io/health_check/";
+const url="http://localhost:3000/health_check";
  
 passport.use(new LocalStrategy(User.authenticate()));
 
